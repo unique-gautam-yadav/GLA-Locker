@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLA Locker", "GLA Locker\GLA Locker.csproj", "{C0A143BD-729B-4538-A10C-D66D2F40ADFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A4E03824-3656-4A99-AE43-99F35607393A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A143BD-729B-4538-A10C-D66D2F40ADFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A143BD-729B-4538-A10C-D66D2F40ADFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A143BD-729B-4538-A10C-D66D2F40ADFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A143BD-729B-4538-A10C-D66D2F40ADFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9BEFB6-2896-400F-A98A-B0278B609AD2}
+	EndGlobalSection
+EndGlobal

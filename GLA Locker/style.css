@@ -1,0 +1,16 @@
+﻿body {
+    background-image : linear-gradient(to right, #ADCCEF, #E7F0FD);
+    align-items: center;
+}
+
+.back{
+    width : 70%;
+    height : 500px;
+    margin : auto;
+    background-color : rgb(184, 17, 241, 0.55);
+    margin-top: 60px;
+    margin-bottom : 60px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 25px grey;
+    padding: 70px
+}
